@@ -23,7 +23,7 @@ content:
         default: false
       - name: body
         label: Body
-        type: text
+        type: rich-text
     view:
       fields: [ title ]
       primary: title
