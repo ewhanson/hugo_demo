@@ -15,7 +15,7 @@ content:
         label: date
         type: date
         options:
-          format: "yyyy-MM-dd'T'HH:mm:ssXXX"
+          format: "yyyy-MM-dd'T'HH:mm:ssxxx"
           time: true
       - name: draft
         label: Draft
